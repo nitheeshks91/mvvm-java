@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VRobButton">
+        <attr name="fontface" format="string"></attr>
+    </declare-styleable>
+    <declare-styleable name="VRobCheckBox">
+        <attr name="cb_fontface" format="string"></attr>
+    </declare-styleable>
+    <declare-styleable name="VRobEditText">
+        <attr name="edt_fontface" format="string"></attr>
+    </declare-styleable>
+  <declare-styleable name="VRobTextView">
+        <attr name="tv_fontface" format="string"></attr>
+    </declare-styleable>
+ <declare-styleable name="VrobRadioButton">
+        <attr name="rb_fontface" format="string"></attr>
+    </declare-styleable>
+</resources>
