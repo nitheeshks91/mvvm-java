@@ -15,4 +15,9 @@
  <declare-styleable name="VrobRadioButton">
         <attr name="rb_fontface" format="string"></attr>
     </declare-styleable>
+
+    <declare-styleable name="LinearLayoutAnimation">
+        <attr name="startAnimation" format="boolean" />
+        <attr name="startRecursiveAnimation" format="boolean" />
+    </declare-styleable>
 </resources>
